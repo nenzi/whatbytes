@@ -15,24 +15,23 @@
 
 ## Overview
 
-This Django application is designed to *
-*[briefly explain the purpose of the application, e.g., manage tasks, process data, or serve as an API backend]**. The
+This Django application is designed for django backend assignment for user authentication and profile management. The
 app follows Django best practices for modularity and scalability.
 
 ---
 
 ## Features
 
-- **Feature 1**: [e.g., User authentication and authorization]
-- **Feature 2**: [e.g., User Dashboard and Profile]
+- **User authentication and authorization**
+- **User Dashboard and Profile**
 
 ---
 
 ## Technologies Used
 
-- **Python**: [Python version, e.g., 3.9+]
-- **Django**: [Django version, e.g., 4.2+]
-- **Database**: [e.g. SQLite]
+- **Python**
+- **Django**
+- **Database**
 
 ---
 
