@@ -31,7 +31,7 @@ app follows Django best practices for modularity and scalability.
 
 - **Python**
 - **Django**
-- **Database**
+- **SQLite**
 
 ---
 
