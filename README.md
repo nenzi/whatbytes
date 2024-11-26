@@ -24,9 +24,7 @@ app follows Django best practices for modularity and scalability.
 ## Features
 
 - **Feature 1**: [e.g., User authentication and authorization]
-- **Feature 2**: [e.g., REST API support with DRF]
-- **Feature 3**: [e.g., CRUD operations for models]
-- **Feature 4**: [e.g., Admin panel for management]
+- **Feature 2**: [e.g., User Dashboard and Profile]
 
 ---
 
